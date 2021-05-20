@@ -33,7 +33,7 @@
     "redux-thunk": "^2.3.0",
     "uuid": "^8.3.2"
   },
-  "homepage": "https://github.com/make/",
+  "homepage": "https://github.com/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
